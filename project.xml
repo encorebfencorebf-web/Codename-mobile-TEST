@@ -8,10 +8,10 @@
 	<architecture exclude="arm64-v8a" if="ONLY_ARMV7" />
 
 	<app
-		title="Bikini-Horrors" main="funkin.backend.system.Main"
-		file="bikini-horrors" packageName="com.ajwwk.bh"
-		package="com.ajwwk.bh"
-		version="1.0.1" company="Ajwwk89" />
+		title="BfexeTes" main="funkin.backend.system.Main"
+		file="BfexeTes" packageName="com.bfexe.test"
+		package="com.bfexe.test"
+		version="1.0.1" company="Bfexeopt" />
 
 	<!--
 		CHANGE THE SAVE PATH & NAME FOR YOUR MOD HERE!
